@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.52053e5e.css",
+    "main.js": "/static/js/main.645b792b.js",
+    "static/js/787.ec37acb5.chunk.js": "/static/js/787.ec37acb5.chunk.js",
+    "static/media/logoYad.svg": "/static/media/logoYad.db26a70fa13ac6e1cf1aa7464d198a48.svg",
+    "index.html": "/index.html",
+    "main.52053e5e.css.map": "/static/css/main.52053e5e.css.map",
+    "main.645b792b.js.map": "/static/js/main.645b792b.js.map",
+    "787.ec37acb5.chunk.js.map": "/static/js/787.ec37acb5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52053e5e.css",
+    "static/js/main.645b792b.js"
+  ]
+}
